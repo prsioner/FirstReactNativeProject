@@ -200,8 +200,11 @@ class MainMoviesPage extends Component {
     }
 }
 
-
+/**
+ * 实现一个计数器
+ */
 class ForgetPassword extends React.Component {
+    
     static navigationOptions={
         title :'Forget Password'
     };
